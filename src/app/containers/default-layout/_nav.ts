@@ -21,7 +21,7 @@ export const navItems: INavData[] = [
     iconComponent: { name: 'cil-contact' },
   },
   {
-    name: 'Healing Topics',
+    name: 'SolarConsulting Topics',
     url: '/pages',
     iconComponent: { name: 'cil-layers' },
   },
